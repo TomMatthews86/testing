@@ -1,2 +1,2 @@
 # testing
-Learning the basics...
+Learning the basics of Github. This is well overdue!
